@@ -47,3 +47,6 @@ The dashboard provides a comprehensive view of sales trends, customer performanc
 - Product Category (Appliances, Electronics, Furniture)
 - Month (01–12)
 - Year (2024–2025)
+
+- ## 📸 Dashboard Preview
+![Dashboard Preview](screenshots/novamart.png)
