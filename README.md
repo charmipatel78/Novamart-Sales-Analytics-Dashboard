@@ -49,4 +49,4 @@ The dashboard provides a comprehensive view of sales trends, customer performanc
 - Year (2024–2025)
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Dashboard Screenshot/novamart.png)
+![Dashboard Preview](Image/novamart.png)
